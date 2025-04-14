@@ -1,0 +1,15 @@
+{
+  "user": [],
+  "post": [
+    {
+      "id": "f462",
+      "name": "jigar",
+      "password": "jigar@123"
+    },
+    {
+      "id": "aca2",
+      "title": "nope",
+      "password": "epon"
+    }
+  ]
+}
